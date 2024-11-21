@@ -22,3 +22,9 @@
     top: 500px;
     left: 500px;
 }
+
+.scheda-elemento{
+    position: absolute;
+    left: 0px;
+    top: 1200px;
+}
